@@ -1,6 +1,7 @@
 # weather_app
 
-A new Flutter project.
+
+This Weather Application helps users to find the detailed current weather forecast. User can set their city as the default. Therefore whenever user opens the application, user gets the current weather forecast and also finds another city's current weather by searching with the city names.
 
 ## Getting Started
 
