@@ -3,7 +3,10 @@
 
 This Weather Application helps users to find the detailed current weather forecast. User can set their city as the default. Therefore whenever user opens the application, user gets the current weather forecast and also finds another city's current weather by searching with the city names.
 
-## Getting Started
+
+
+## Getting Started![weather app](https://user-images.githubusercontent.com/97301904/153801950-517b0f4e-4686-4e07-b634-0fbb6bce5726.jpg)
+
 
 This project is a starting point for a Flutter application.
 
